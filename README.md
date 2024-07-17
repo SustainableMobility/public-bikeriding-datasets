@@ -1,6 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Collect all publicly available bike riding related datasets under one roof to assist researchers.
+Collect all publicly available cycling and bike riding related datasets under one roof to assist researchers.
 
 ## Datasets
 ### VIC, Australia
